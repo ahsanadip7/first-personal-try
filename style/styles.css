@@ -1,26 +1,33 @@
 *{
     margin: 0px;
+    padding: 0px;
 }
 #heading{
+    
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: grey; text-shadow: 3px 1px 1px;
    text-decoration-line: underline;
  text-align: center;
-   height:100px;
+
 
 
 }
 .div-parent{
     background-color: aquamarine;
-    height: 300px;
+   
 text-align: center;
 
-font-size: medium; color: blue;
+font-size: medium; color: blue
 }
 .button-parent{
-    background-color: tomato;
+    background-color:blueviolet;
     border-style: solid;
-    border-color: brown;
-    padding: 15px 15px;
+    border-color: red;
+    padding: 15px 15px; 
+    color: white;
+    box-shadow: 3px 3px ;
+    border-radius: 5px;
+    border-bottom-color: cornsilk;
+    border-right-color: aliceblue;
 }
